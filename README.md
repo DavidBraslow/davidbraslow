@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a quantitative social scientist and data science educator. My GitHub mostly consists of repos for data science lessons taught in the Flatiron School's Data Science programs. I'd love to connect with people who care about teaching, data, and any combination of the two.
+I am a quantitative social scientist and data science educator. My GitHub mostly consists of repos for data science lessons taught in the Flatiron School's Data Science programs. You can see my academic works [here](https://orcid.org/0000-0001-8301-6785). I'd love to connect with people who care about teaching, data, and any combination of the two.
 
 <!--
 Here are some ideas to get you started:
