@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-<!--
-**DavidBraslow/davidbraslow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a quantitative social scientist and data science educator. My GitHub mostly consists of repos for data science lessons taught in the Flatiron School's Data Science programs. I'd love to connect with people who care about teaching, data, and any combination of the two.
 
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
