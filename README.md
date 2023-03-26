@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am an education data scientist who focuses on teaching and learning. My GitHub mostly contains instructional material for the Flatiron School's Data Science programs, which I helped run. You can see my academic works [here](https://orcid.org/0000-0001-8301-6785). DOn't hesitate to reach out if you're interested in connecting!
+I am an education data scientist who focuses on teaching and learning. My GitHub mostly contains instructional material for the Flatiron School's Data Science programs, which I helped run. You can see my academic works [here](https://orcid.org/0000-0001-8301-6785). Don't hesitate to reach out if you're interested in connecting!
 
 <!--
 Here are some ideas to get you started:
